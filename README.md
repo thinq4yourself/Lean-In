@@ -18,6 +18,7 @@ Below is a sampling for team orientation, self digest, interest groups, activiti
 
 Resources and ideas on how to build and grow a great product.
 
+- [Entrepreneur's Operating System](https://www.eosworldwide.com/) - Clarify, Simplify, and Achieve Your Vision
 - [T-Shaped Stars: The Backbone of IDEO’s Collaborative Culture](http://chiefexecutive.net/ideo-ceo-tim-brown-t-shaped-stars-the-backbone-of-ideoae%E2%84%A2s-collaborative-culture/)
 - [Product/Market Fit](http://web.stanford.edu/class/ee204/ProductMarketFit.html)
 - [Behind Every Great Product](http://www.svpg.com/assets/Files/productmanager.pdf)
@@ -40,6 +41,8 @@ Resources and ideas on how to build and grow a great product.
 
 ### Books to read
 
+- [Traction - Get a grip on your business](https://traction.eosworldwide.com/traction-book) - for entrepreneur's, execs,  and founders
+- [Rocket Fuel - The one essential combination](https://traction.eosworldwide.com/rocket-fuel-book) - for founders
 - [CAD Monkeys, Dinosaur Babies, and T-Shaped People](https://www.amazon.com/Monkeys-Dinosaur-Babies-T-Shaped-People/dp/0143118021)
 - [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?ie=UTF8&qid=1480352576&sr=8-1&keywords=hooked+book)
 - [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
