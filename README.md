@@ -7,8 +7,16 @@ Use `Projects` and `Tags` to create and manage `Lean In Circles`, small groups w
 
 ![](http://media.tumblr.com/8b6564487c4ee9bc0698fa880d183fe9/tumblr_inline_moky6riBro1qz4rgp.jpg)
 
-## Sample Outline
-Things to come...
+
+## Getting Started
+
+> ### Check out the [Wiki for deep dives](wiki)
+
+Below are some useful resources, books, guides, and more.
+
+> #### Enjoy!!
+
+---
 
 ### Topics and interests
 
